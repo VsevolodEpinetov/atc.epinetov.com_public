@@ -1,0 +1,39 @@
+{
+  "name": {
+    "plain": "Airbus 310",
+    "alt": ["a310"]
+  },
+  "specs": {
+    "engines": {
+      "quantity": 2,
+      "type": "J"
+    },
+    "speed": {
+      "cruising": {
+        "kmh": 860
+      }
+    },
+    "rates": {
+      "climb": {
+        "fpm": 3000
+      }
+    },
+    "ceiling": {
+      "m": 12100,
+      "fl": 400
+    },
+    "range": {
+      "km": 6000
+    },
+    "maxTakeOffWeight": {
+      "kg": 160000
+    }
+  },
+  "commentary": {
+    "summary": "Дальнемагистральный самолет Airbus A310 разработан европейским авиастроительным концерном Airbus Industrie на основе модели Airbus A300 и отличался от нее укороченным фюзеляжем, модернизированным шасси и хвостовым оперением. Эксплуатация самолета в авиакомпаниях началась в 1983 г.",
+    "atc": ""
+  },
+  "links": {
+    "wiki": "https://ru.wikipedia.org/wiki/Airbus_A310"
+  }
+}

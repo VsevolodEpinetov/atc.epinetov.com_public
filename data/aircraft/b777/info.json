@@ -1,0 +1,38 @@
+{
+  "name": {
+    "plain": "Boeing 777",
+    "alt": ["b777"]
+  },
+  "specs": {
+    "engines": {
+      "quantity": 2,
+      "type": "J"
+    },
+    "speed": {
+      "cruising": {
+        "kmh": 905
+      }
+    },
+    "rates": {
+      "climb": {
+        "fpm": 3000
+      }
+    },
+    "ceiling": {
+      "m": 13140,
+      "fl": 440
+    },
+    "range": {
+      "km": 10190
+    },
+    "maxTakeOffWeight": {
+      "kg": 344000
+    }
+  },
+  "commentary": {
+    "summary": "Boeing 777 — самый крупный в мире двухмоторный турбовентиляторный пассажирский самолёт. Его двигатели General Electric GE90 — самые крупные и самые мощные в истории авиации турбовентиляторные двигатели. Отличительная особенность — шестиколёсные стойки шасси."
+  },
+  "links": {
+    "wiki": "https://ru.wikipedia.org/wiki/Boeing_777"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": {
+    "plain": "Embraer E-Jet (170/190)",
+    "alt": ["e170"]
+  },
+  "specs": {
+    "engines": {
+      "quantity": 2,
+      "type": "J"
+    },
+    "speed": {
+      "cruising": {
+        "kmh": 850
+      }
+    },
+    "rates": {
+      "climb": {
+        "fpm": 3000
+      }
+    },
+    "ceiling": {
+      "m": 12500,
+      "fl": 410
+    },
+    "range": {
+      "km": 3900
+    },
+    "maxTakeOffWeight": {
+      "kg": 51800
+    }
+  },
+  "commentary": {
+    "summary": "Embraer E-Jet — семейство двухмоторных узкофюзеляжных пассажирских самолётов средней дальности, производства бразильской компании «Embraer». Включает в себя четыре модификации: E-170, E-175, E-190 и E-195. E-Jet был анонсирован на авиасалоне в Ле Бурже в 1999 году. Серийное производство началось с 2002 года."
+  },
+  "links": {
+    "wiki": "https://ru.wikipedia.org/wiki/Embraer_E-Jet"
+  }
+}

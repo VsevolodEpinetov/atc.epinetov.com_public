@@ -1,0 +1,38 @@
+{
+  "name": {
+    "plain": "Ан-124",
+    "alt": ["an124"]
+  },
+  "specs": {
+    "engines": {
+      "quantity": 4,
+      "type": "J"
+    },
+    "speed": {
+      "cruising": {
+        "kmh": 850
+      }
+    },
+    "rates": {
+      "climb": {
+        "fpm": 3000
+      }
+    },
+    "ceiling": {
+      "m": 11600,
+      "fl": 390
+    },
+    "range": {
+      "km": 4800
+    },
+    "maxTakeOffWeight": {
+      "kg": 392000
+    }
+  },
+  "commentary": {
+    "summary": "Крупный и второй по грузоподъёмности в мире (после Ан-225) серийный грузовой самолёт (в 1982—1988 годах был также крупнейшим по габаритам самолётом в мире)."
+  },
+  "links": {
+    "wiki": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD-124"
+  }
+}

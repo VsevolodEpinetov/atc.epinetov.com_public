@@ -1,0 +1,39 @@
+{
+  "name": {
+    "plain": "Gulfstream IV",
+    "alt": ["g4"]
+  },
+  "specs": {
+    "engines": {
+      "quantity": 2,
+      "type": "J"
+    },
+    "speed": {
+      "cruising": {
+        "kmh": 988
+      }
+    },
+    "rates": {
+      "climb": {
+        "fpm": 3000
+      }
+    },
+    "ceiling": {
+      "m": 13700,
+      "fl": 460
+    },
+    "range": {
+      "km": 8060
+    },
+    "maxTakeOffWeight": {
+      "kg": 51800
+    }
+  },
+  "commentary": {
+    "summary": "Линейка турбовентиляторных двухмоторных самолётов бизнес-класса, разработанных компанией Gulfstream Aerospace Copropation, дочерней компанией General Dynamics. Самолёт производился с 1985 по 2003 годы. Оснащен двумя двигателями Rolls-Royce RB.183 Tay.",
+    "atc": "Схожий с другими бизнес-джетами, Golfstream способен держать повышенную поступательную и вертикальные скорости. Легко поддаётся регулированию скоростями и, благодаря высокой манёвренности, векторению."
+  },
+  "links": {
+    "wiki": "https://ru.wikipedia.org/wiki/Gulfstream_IV"
+  }
+}

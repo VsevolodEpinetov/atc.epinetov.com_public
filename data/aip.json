@@ -1,0 +1,52 @@
+{
+  "UUBW": {
+    "name": "Раменское",
+    "country": "Россия",
+    "availableTypes": {
+      "full": true,
+      "STAR": true,
+      "SID": true,
+      "Approach": false
+    }
+  },
+  "UUEE": {
+    "name": "Шереметьево",
+    "country": "Россия",
+    "availableTypes": {
+      "full": true,
+      "STAR": true,
+      "SID": true,
+      "Approach": true
+    }
+  },
+  "UUWW": {
+    "name": "Внуково",
+    "country": "Россия",
+    "availableTypes": {
+      "full": true,
+      "STAR": true,
+      "SID": true,
+      "Approach": true
+    }
+  },
+  "UUDD": {
+    "name": "Домодедово",
+    "country": "Россия",
+    "availableTypes": {
+      "full": true,
+      "STAR": true,
+      "SID": true,
+      "Approach": true
+    }
+  },
+  "UUMO": {
+    "name": "Остафьево",
+    "country": "Россия",
+    "availableTypes": {
+      "full": true,
+      "STAR": true,
+      "SID": true,
+      "Approach": false
+    }
+  }
+}

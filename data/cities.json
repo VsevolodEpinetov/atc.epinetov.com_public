@@ -1,0 +1,1266 @@
+[
+  {
+    "name": "Хабаровск",
+    "icao": {
+      "rus": "УХХХ",
+      "eng": "UHHH"
+    },
+    "distance": 6200,
+    "time": 7.5,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Благовещенск",
+    "icao": {
+      "rus": "УХББ",
+      "eng": "UHBB"
+    },
+    "distance": 6530,
+    "time": 7,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Владивосток",
+    "icao": {
+      "rus": "УХВВ",
+      "eng": "UHWW"
+    },
+    "distance": 6440,
+    "time": 7.9,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Магадан",
+    "icao": {
+      "rus": "УХММ",
+      "eng": "UHMM"
+    },
+    "distance": 5900,
+    "time": 6.6,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Петропавловск-Камчатский",
+    "icao": {
+      "rus": "УХПП",
+      "eng": "UHPP"
+    },
+    "distance": 6800,
+    "time": 7.5,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Южно-Сахалинск",
+    "icao": {
+      "rus": "УХСС",
+      "eng": "UHSS"
+    },
+    "distance": 6660,
+    "time": 7.9,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Анадырь",
+    "icao": {
+      "rus": "УХМА",
+      "eng": "UHMA"
+    },
+    "distance": 6196,
+    "time": 8.1,
+    "area": {
+      "icao": {
+        "rus": "УХ",
+        "eng": "UH"
+      },
+      "name": "Хабаровский РЦ"
+    }
+  },
+  {
+    "name": "Якутск",
+    "icao": {
+      "rus": "УЕЕЕ",
+      "eng": "UEEE"
+    },
+    "distance": 4900,
+    "time": 6,
+    "area": {
+      "icao": {
+        "rus": "УЕ",
+        "eng": "UE"
+      },
+      "name": "Якутский РЦ"
+    }
+  },
+  {
+    "name": "Мирный",
+    "icao": {
+      "rus": "УЕРР",
+      "eng": "UERR"
+    },
+    "distance": 4150,
+    "time": 5.9,
+    "area": {
+      "icao": {
+        "rus": "УЕ",
+        "eng": "UE"
+      },
+      "name": "Якутский РЦ"
+    }
+  },
+  {
+    "name": "Черский",
+    "icao": {
+      "rus": "УЕСС",
+      "eng": "UESS"
+    },
+    "distance": 5450,
+    "time": 6.5,
+    "area": {
+      "icao": {
+        "rus": "УЕ",
+        "eng": "UE"
+      },
+      "name": "Якутский РЦ"
+    }
+  },
+  {
+    "name": "Алдан",
+    "icao": {
+      "rus": "УЕЕА",
+      "eng": "UEEA"
+    },
+    "distance": 4930,
+    "time": 6,
+    "area": {
+      "icao": {
+        "rus": "УЕ",
+        "eng": "UE"
+      },
+      "name": "Якутский РЦ"
+    }
+  },
+  {
+    "name": "Удачный",
+    "icao": {
+      "rus": "УЕРП",
+      "eng": "UERP"
+    },
+    "distance": 3930,
+    "time": 5.9,
+    "area": {
+      "icao": {
+        "rus": "УЕ",
+        "eng": "UE"
+      },
+      "name": "Якутский РЦ"
+    }
+  },
+  {
+    "name": "Иркутск",
+    "icao": {
+      "rus": "УИИИ",
+      "eng": "UIII"
+    },
+    "distance": 4220,
+    "time": 5.3,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Чита",
+    "icao": {
+      "rus": "УИАА",
+      "eng": "UIAA"
+    },
+    "distance": 4740,
+    "time": 5.9,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Братск",
+    "icao": {
+      "rus": "УИББ",
+      "eng": "UIBB"
+    },
+    "distance": 3850,
+    "time": 4.9,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Улан-Удэ",
+    "icao": {
+      "rus": "УИУУ",
+      "eng": "UIUU"
+    },
+    "distance": 4430,
+    "time": 5.5,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Краснокаменск",
+    "icao": {
+      "rus": "УИАЕ",
+      "eng": "UIAE"
+    },
+    "distance": 5140,
+    "time": 6.2,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Нижнеуудинск",
+    "icao": {
+      "rus": "УИНН",
+      "eng": "UINN"
+    },
+    "distance": 3760,
+    "time": 4.5,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Нижнеангарск",
+    "icao": {
+      "rus": "УИУН",
+      "eng": "UIUN"
+    },
+    "distance": 4300,
+    "time": 5.3,
+    "area": {
+      "icao": {
+        "rus": "УИ",
+        "eng": "UI"
+      },
+      "name": "Иркутский РЦ"
+    }
+  },
+  {
+    "name": "Новосибирск",
+    "icao": {
+      "rus": "УННТ",
+      "eng": "UNNT"
+    },
+    "distance": 2820,
+    "time": 3.5,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Абакан",
+    "icao": {
+      "rus": "УНАА",
+      "eng": "UNAA"
+    },
+    "distance": 3380,
+    "time": 4.1,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Барнаул",
+    "icao": {
+      "rus": "УНББ",
+      "eng": "UNBB"
+    },
+    "distance": 2940,
+    "time": 3.6,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Новокузнецк",
+    "icao": {
+      "rus": "УНВВ",
+      "eng": "UNWW"
+    },
+    "distance": 3120,
+    "time": 4,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Кемерово",
+    "icao": {
+      "rus": "УНЕЕ",
+      "eng": "UNEE"
+    },
+    "distance": 2990,
+    "time": 3.9,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Красноярск",
+    "icao": {
+      "rus": "УНКЛ",
+      "eng": "UNKL"
+    },
+    "distance": 3350,
+    "time": 4.3,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Омск",
+    "icao": {
+      "rus": "УНОО",
+      "eng": "UNOO"
+    },
+    "distance": 2230,
+    "time": 3,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Томск",
+    "icao": {
+      "rus": "УНТТ",
+      "eng": "UNTT"
+    },
+    "distance": 2890,
+    "time": 4,
+    "area": {
+      "icao": {
+        "rus": "УН",
+        "eng": "UN"
+      },
+      "name": "Новосибирский РЦ"
+    }
+  },
+  {
+    "name": "Норильск",
+    "icao": {
+      "rus": "УООО",
+      "eng": "UOOO"
+    },
+    "distance": 2855,
+    "time": 3.2,
+    "area": {
+      "icao": {
+        "rus": "УО",
+        "eng": "UO"
+      },
+      "name": "Норильский РЦ"
+    }
+  },
+  {
+    "name": "Игарка",
+    "icao": {
+      "rus": "УОИИ",
+      "eng": "UOII"
+    },
+    "distance": 2800,
+    "time": 3.3,
+    "area": {
+      "icao": {
+        "rus": "УО",
+        "eng": "UO"
+      },
+      "name": "Норильский РЦ"
+    }
+  },
+  {
+    "name": "Хатанга",
+    "icao": {
+      "rus": "УОХХ",
+      "eng": "UOHH"
+    },
+    "distance": 3420,
+    "time": 4.3,
+    "area": {
+      "icao": {
+        "rus": "УО",
+        "eng": "UO"
+      },
+      "name": "Норильский РЦ"
+    }
+  },
+  {
+    "name": "Диксон",
+    "icao": {
+      "rus": "УОДД",
+      "eng": "UODD"
+    },
+    "distance": 2740,
+    "time": 3.6,
+    "area": {
+      "icao": {
+        "rus": "УО",
+        "eng": "UO"
+      },
+      "name": "Норильский РЦ"
+    }
+  },
+  {
+    "name": "Самара",
+    "icao": {
+      "rus": "УВВВ",
+      "eng": "UWWW"
+    },
+    "distance": 861,
+    "time": 1.3,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Бугуруслан",
+    "icao": {
+      "rus": "УВВБ",
+      "eng": "UWWB"
+    },
+    "distance": 980,
+    "time": 1.5,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Нижний Новгород",
+    "icao": {
+      "rus": "УВГГ",
+      "eng": "UWGG"
+    },
+    "distance": 404,
+    "time": 0.9,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Бугульма",
+    "icao": {
+      "rus": "УВКБ",
+      "eng": "UWKB"
+    },
+    "distance": 976,
+    "time": 1.5,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Казань",
+    "icao": {
+      "rus": "УВКД",
+      "eng": "UWKD"
+    },
+    "distance": 734,
+    "time": 1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Нижнекамск",
+    "icao": {
+      "rus": "УВКЕ",
+      "eng": "UWKE"
+    },
+    "distance": 891,
+    "time": 1.5,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Йошкар-Ола",
+    "icao": {
+      "rus": "УВКЙ",
+      "eng": "UWKJ"
+    },
+    "distance": 646,
+    "time": 1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Чебоксары",
+    "icao": {
+      "rus": "УВКС",
+      "eng": "UWKS"
+    },
+    "distance": 607,
+    "time": 1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Ульяновск (Баратаевка)",
+    "icao": {
+      "rus": "УВЛЛ",
+      "eng": "UWLL"
+    },
+    "distance": 707,
+    "time": 1.1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Ульяновск (Восточный)",
+    "icao": {
+      "rus": "УВЛВ",
+      "eng": "UWLW"
+    },
+    "distance": 700,
+    "time": 1.1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Оренбург",
+    "icao": {
+      "rus": "УВОО",
+      "eng": "UWOO"
+    },
+    "distance": 1230,
+    "time": 1.9,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Пенза",
+    "icao": {
+      "rus": "УВКП",
+      "eng": "UWKP"
+    },
+    "distance": 554,
+    "time": 1,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Саратов",
+    "icao": {
+      "rus": "УВСГ",
+      "eng": "UWSG"
+    },
+    "distance": 724,
+    "time": 1.3,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Уфа",
+    "icao": {
+      "rus": "УВУУ",
+      "eng": "UWUU"
+    },
+    "distance": 1170,
+    "time": 1.9,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Саранск",
+    "icao": {
+      "rus": "УВПС",
+      "eng": "UWPS"
+    },
+    "distance": 516,
+    "time": 1.5,
+    "area": {
+      "icao": {
+        "rus": "УВ",
+        "eng": "UW"
+      },
+      "name": "Самарский РЦ"
+    }
+  },
+  {
+    "name": "Екатеринбург",
+    "icao": {
+      "rus": "УССС",
+      "eng": "USSS"
+    },
+    "distance": 1420,
+    "time": 2.3,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Челябинск",
+    "icao": {
+      "rus": "УСЦЦ",
+      "eng": "USCC"
+    },
+    "distance": 1490,
+    "time": 2.2,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Курган",
+    "icao": {
+      "rus": "УСУУ",
+      "eng": "USUU"
+    },
+    "distance": 1735,
+    "time": 2.5,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Ханты-Мансийск",
+    "icao": {
+      "rus": "УСХХ",
+      "eng": "USHH"
+    },
+    "distance": 1908,
+    "time": 2.7,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Салехард",
+    "icao": {
+      "rus": "УСДД",
+      "eng": "USDD"
+    },
+    "distance": 0,
+    "time": 2.5,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Новый Уренгой",
+    "icao": {
+      "rus": "УСМУ",
+      "eng": "USMU"
+    },
+    "distance": 0,
+    "time": 3,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Ижевск",
+    "icao": {
+      "rus": "УСИИ",
+      "eng": "USII"
+    },
+    "distance": 972,
+    "time": 1.5,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Киров",
+    "icao": {
+      "rus": "УСКК",
+      "eng": "USKK"
+    },
+    "distance": 793,
+    "time": 1.1,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Надым",
+    "icao": {
+      "rus": "УСММ",
+      "eng": "USMM"
+    },
+    "distance": 2160,
+    "time": 2.7,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Нижневартовск",
+    "icao": {
+      "rus": "УСНН",
+      "eng": "USNN"
+    },
+    "distance": 2300,
+    "time": 3,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Пермь",
+    "icao": {
+      "rus": "УСПП",
+      "eng": "USPP"
+    },
+    "distance": 1140,
+    "time": 1.7,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Когалым",
+    "icao": {
+      "rus": "УСРК",
+      "eng": "USRK"
+    },
+    "distance": 2200,
+    "time": 3,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Сургут",
+    "icao": {
+      "rus": "УСРР",
+      "eng": "USRR"
+    },
+    "distance": 2150,
+    "time": 2.9,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Магнитогорск",
+    "icao": {
+      "rus": "УСЦМ",
+      "eng": "USCM"
+    },
+    "distance": 1400,
+    "time": 2,
+    "area": {
+      "icao": {
+        "rus": "УC",
+        "eng": "US"
+      },
+      "name": "Екатеринбургский РЦ"
+    }
+  },
+  {
+    "name": "Москва (Внуково)",
+    "icao": {
+      "rus": "УУВВ",
+      "eng": "UUWW"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Москва (Шереметьево)",
+    "icao": {
+      "rus": "УУЕЕ",
+      "eng": "UUEE"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Москва (Домодедово)",
+    "icao": {
+      "rus": "УУДД",
+      "eng": "UUDD"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Чкаловский",
+    "icao": {
+      "rus": "УУМУ",
+      "eng": "UUMU"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Раменское",
+    "icao": {
+      "rus": "УУБВ",
+      "eng": "UUBW"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Кострома",
+    "icao": {
+      "rus": "УУБА",
+      "eng": "UUBA"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Иваново",
+    "icao": {
+      "rus": "УУБИ",
+      "eng": "UUBI"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Рыбинск",
+    "icao": {
+      "rus": "УУБК",
+      "eng": "UUBK"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Владимир",
+    "icao": {
+      "rus": "УУБЛ",
+      "eng": "UUBL"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Тверь",
+    "icao": {
+      "rus": "УУБН",
+      "eng": "UUBN"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Брянск",
+    "icao": {
+      "rus": "УУБП",
+      "eng": "UUBP"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Калуга",
+    "icao": {
+      "rus": "УУБЦ",
+      "eng": "UUBC"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Ярославль (Туноша)",
+    "icao": {
+      "rus": "УУДЛ",
+      "eng": "UUDL"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Воронеж",
+    "icao": {
+      "rus": "УУОО",
+      "eng": "UUOO"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Липецк",
+    "icao": {
+      "rus": "УУОЛ",
+      "eng": "UUOL"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Старый Оскол",
+    "icao": {
+      "rus": "УУОС",
+      "eng": "UUOS"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Тамбов",
+    "icao": {
+      "rus": "УУОТ",
+      "eng": "UUOT"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Белгород",
+    "icao": {
+      "rus": "УУОБ",
+      "eng": "UUOB"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  },
+  {
+    "name": "Курск",
+    "icao": {
+      "rus": "УУОК",
+      "eng": "UUOK"
+    },
+    "distance": 0,
+    "time": 0,
+    "area": {
+      "icao": {
+        "rus": "УУ",
+        "eng": "UU"
+      },
+      "name": "Московский РЦ"
+    }
+  }
+]

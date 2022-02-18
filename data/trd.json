@@ -1,0 +1,290 @@
+[ {
+    "name": {
+      "rus": "Москва",
+      "eng": "Moscow"
+    },
+    "structure": {
+      "adc": {
+        "name": "МАДЦ",
+        "structure": {
+          "UUEE": {
+            "name": "Шереметьево",
+            "structure": {
+              "radar": {
+                "name": "Круг",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А2",
+                      "eng": "A2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А2+А2С",
+                      "eng": "A2+A2S"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А2+А2С+ШД2+ШД1",
+                      "eng": "A2+A2S+SD2+SD1"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А2+А2С+ШД2+ШД1+Д2",
+                      "eng": "A2+A2S+SD2+SD1+D2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А2С",
+                      "eng": "A2S"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д2",
+                      "eng": "D2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ШД1",
+                      "eng": "SD1"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ШД2",
+                      "eng": "SD2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ШД2+ШД1",
+                      "eng": "SD2+SD1"
+                    }
+                  }
+                ]
+              },
+              "approach": {
+                "name": "Подход",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А1",
+                      "eng": "A1"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д1",
+                      "eng": "D1"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А1+Д1",
+                      "eng": "A1+D1"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "UUDD": {
+            "name": "Домодедово",
+            "structure": {
+              "radar": {
+                "name": "Круг",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А6",
+                      "eng": "A6"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А6+А8",
+                      "eng": "A6+A8"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А6+А8+ДД1+ДД2",
+                      "eng": "A6+A8+DD1+DD2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А6+А8+ДД1+ДД2+Д6",
+                      "eng": "A6+A8+DD1+DD2+D6"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А8",
+                      "eng": "A8"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д6",
+                      "eng": "D6"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ДД1",
+                      "eng": "DD1"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ДД2",
+                      "eng": "DD2"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ДД1+ДД2",
+                      "eng": "DD1+DD2"
+                    }
+                  }
+                ]
+              },
+              "approach": {
+                "name": "Подход",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А5",
+                      "eng": "A5"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д5",
+                      "eng": "D5"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А5+Д5",
+                      "eng": "A5+D5"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "UUWW": {
+            "name": "Внуково",
+            "structure": {
+              "radar": {
+                "name": "Круг",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А4",
+                      "eng": "A4"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А4+ВД+Д4",
+                      "eng": "A4+WD+D4"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А4+ВД",
+                      "eng": "A4+WD"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "ВД",
+                      "eng": "WD"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д4",
+                      "eng": "D4"
+                    }
+                  }
+                ]
+              },
+              "approach": {
+                "name": "Подход",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А3",
+                      "eng": "A3"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д3",
+                      "eng": "D3"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А3+Д3",
+                      "eng": "A3+D3"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          "UUBB": {
+            "name": "Восток",
+            "structure": {
+              "radar": {
+                "name": "Круг",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "Д8",
+                      "eng": "D8"
+                    }
+                  }
+                ]
+              },
+              "approach": {
+                "name": "Подход",
+                "sectors": [
+                  {
+                    "name": {
+                      "rus": "А7",
+                      "eng": "A7"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "Д7",
+                      "eng": "D7"
+                    }
+                  },
+                  {
+                    "name": {
+                      "rus": "А7+Д7",
+                      "eng": "A7+D7"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+]

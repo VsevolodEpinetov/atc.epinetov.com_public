@@ -1,0 +1,56 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/out
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+secrets.json
+test.json
+
+package-lock.json
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# package
+/dist
+/.next
+/.vscode
+/.vs
+
+#example pages
+/pages/about-us.js
+/pages/blog-posts.js
+/pages/blog-post.js
+/pages/components.js
+/pages/contact-us.js
+/pages/ecommerce.js
+/pages/error-page.js
+/pages/landing-page.js
+/pages/pricing.js
+/pages/product.js
+/pages/profile-old.js
+/pages/sections.js
+/pages/shopping-cart.js
+/pages/signup.js
+/pages-sections
+
+#firebase
+/lib/firebase.js
+
+#images (because all of them are hosted in google storage now)
+/assets/img
